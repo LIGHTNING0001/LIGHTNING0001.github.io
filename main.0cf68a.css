@@ -3017,7 +3017,6 @@ pre .css ~ * .id, pre .id {
     .article-header {
         border-left: none;
         padding: 0;
-        border-bottom: 1px dotted #ddd
     }
 
     .article-header h1 {
