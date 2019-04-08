@@ -2083,6 +2083,7 @@ pre .css ~ * .id, pre .id {
 
 .article-inner {
     border-color: #d1d1d1;
+    border:2px solid;
     border-radius: 25px;
 }
 
