@@ -1989,6 +1989,7 @@ pre .css ~ * .id, pre .id {
     margin: 30px;
     position: relative;
     border: 1px solid #ddd;
+    border-radius: 35px;
     border-top: 1px solid #fff;
     border-bottom: 1px solid #fff;
     background: #fff;
@@ -2083,8 +2084,6 @@ pre .css ~ * .id, pre .id {
 
 .article-inner {
     border-color: #d1d1d1;
-    border:2px solid;
-    border-radius: 25px;
 }
 
 .article-inner h1 {
